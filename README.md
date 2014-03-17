@@ -1,4 +1,4 @@
-egADS
+Extracting Goodies from ADS
 =====
 
-Extracting Goodies from ADS
+The hunt's afoot!
